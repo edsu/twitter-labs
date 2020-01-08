@@ -1,0 +1,1659 @@
+{
+  "meta": {
+    "result_count": 10, 
+    "newest_id": "1214881803657338881", 
+    "oldest_id": "1214877829629759488", 
+    "next_token": "b26v89c19zqg8o3fo6yfq8atij2gi4rb7qtxilqnvmmwt"
+  }, 
+  "data": [
+    {
+      "lang": "en", 
+      "stats": {
+        "reply_count": 0, 
+        "quote_count": 0, 
+        "retweet_count": 0, 
+        "like_count": 0
+      }, 
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>", 
+      "text": "Brittany Kaiser leaks 3 years of Cambridge Analytica docs, \" detailing a global operation involving at least 68 countries used to manipulate voters on \u201can industrial scale.\u201d The documents will be released over the next months. \n\nReading through, the content so far is sickening https://t.co/BljVV4cF3r", 
+      "created_at": "2020-01-08T12:09:28.000Z", 
+      "format": "detailed", 
+      "entities": {
+        "urls": [
+          {
+            "url": "https://t.co/BljVV4cF3r", 
+            "start": 278, 
+            "end": 301, 
+            "expanded_url": "https://twitter.com/HindsightFiles/status/1213632848810381312", 
+            "display_url": "twitter.com/HindsightFiles\u2026"
+          }
+        ]
+      }, 
+      "author_id": "101129179", 
+      "referenced_tweets": [
+        {
+          "type": "quoted", 
+          "id": "1213632848810381312"
+        }
+      ], 
+      "id": "1214881803657338881", 
+      "possibly_sensitive": false
+    }, 
+    {
+      "lang": "cs", 
+      "stats": {
+        "reply_count": 0, 
+        "quote_count": 0, 
+        "retweet_count": 0, 
+        "like_count": 0
+      }, 
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>", 
+      "text": "Dal\u0161\u00ed \u00fanik dokument\u016f z kauzy Cambridge Analytica. \n\nDal\u0161\u00ed informace o tom, jak jsou u\u017eivatel\u00e9 soci\u00e1ln\u00edch s\u00edt\u00ed manipulov\u00e1ni. \n\nAnonymn\u00ed twitterov\u00fd \u00fa\u010det @HindsightFiles publikuje dal\u0161\u00ed informace o zneu\u017e\u00edv\u00e1n\u00ed dat Facebooku. \n\n#CambridgeAnalytica #manipulace\ud83c\udf0e\nhttps://t.co/puXWdU903j", 
+      "created_at": "2020-01-08T12:09:05.000Z", 
+      "format": "detailed", 
+      "entities": {
+        "mentions": [
+          {
+            "username": "HindsightFiles", 
+            "start": 151, 
+            "end": 166
+          }
+        ], 
+        "hashtags": [
+          {
+            "start": 223, 
+            "tag": "CambridgeAnalytica", 
+            "end": 242
+          }, 
+          {
+            "start": 243, 
+            "tag": "manipulace", 
+            "end": 254
+          }
+        ], 
+        "urls": [
+          {
+            "url": "https://t.co/puXWdU903j", 
+            "start": 256, 
+            "end": 279, 
+            "expanded_url": "https://www.theguardian.com/uk-news/2020/jan/04/cambridge-analytica-data-leak-global-election-manipulation?CMP=share_btn_tw", 
+            "display_url": "theguardian.com/uk-news/2020/j\u2026"
+          }
+        ]
+      }, 
+      "author_id": "1111234067301888002", 
+      "id": "1214881709415641088", 
+      "possibly_sensitive": false
+    }, 
+    {
+      "lang": "en", 
+      "stats": {
+        "reply_count": 0, 
+        "quote_count": 0, 
+        "retweet_count": 74, 
+        "like_count": 0
+      }, 
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+      "text": "RT @JehaneNoujaim: #BrittanyKaiser continues to blow the whistle with the release of the @HindsightFiles. Today we joined her on @democracy\u2026", 
+      "created_at": "2020-01-08T12:06:12.000Z", 
+      "format": "detailed", 
+      "entities": {
+        "mentions": [
+          {
+            "username": "JehaneNoujaim", 
+            "start": 3, 
+            "end": 17
+          }, 
+          {
+            "username": "HindsightFiles", 
+            "start": 89, 
+            "end": 104
+          }
+        ], 
+        "hashtags": [
+          {
+            "start": 19, 
+            "tag": "BrittanyKaiser", 
+            "end": 34
+          }
+        ]
+      }, 
+      "author_id": "15546929", 
+      "referenced_tweets": [
+        {
+          "type": "quoted", 
+          "id": "1214538782596358144"
+        }, 
+        {
+          "type": "retweeted", 
+          "id": "1214553763119321088"
+        }
+      ], 
+      "id": "1214880983222120448", 
+      "possibly_sensitive": false
+    }, 
+    {
+      "lang": "en", 
+      "stats": {
+        "reply_count": 0, 
+        "quote_count": 0, 
+        "retweet_count": 0, 
+        "like_count": 0
+      }, 
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+      "text": "@shossy2 @PaulPiscitelli1 Here is an Article on what the @GOP started at the '14 midterms \n\nWorking with Cambridge Analytica \n\nThese ads altered the campaigns in NC @ThomTillis vs @kayhagan\n\nhttps://t.co/MchZCVjuMt", 
+      "created_at": "2020-01-08T12:04:41.000Z", 
+      "format": "detailed", 
+      "entities": {
+        "mentions": [
+          {
+            "username": "shossy2", 
+            "start": 0, 
+            "end": 8
+          }, 
+          {
+            "username": "PaulPiscitelli1", 
+            "start": 9, 
+            "end": 25
+          }, 
+          {
+            "username": "GOP", 
+            "start": 57, 
+            "end": 61
+          }, 
+          {
+            "username": "ThomTillis", 
+            "start": 165, 
+            "end": 176
+          }, 
+          {
+            "username": "kayhagan", 
+            "start": 180, 
+            "end": 189
+          }
+        ], 
+        "urls": [
+          {
+            "url": "https://t.co/MchZCVjuMt", 
+            "start": 191, 
+            "end": 214, 
+            "expanded_url": "https://twitter.com/HindsightFiles/status/1213230045864628224?s=19", 
+            "display_url": "twitter.com/HindsightFiles\u2026"
+          }
+        ]
+      }, 
+      "in_reply_to_user_id": "4459642286", 
+      "author_id": "42388780", 
+      "referenced_tweets": [
+        {
+          "type": "quoted", 
+          "id": "1213230045864628224"
+        }, 
+        {
+          "type": "replied_to", 
+          "id": "1212748147367325697"
+        }
+      ], 
+      "id": "1214880600311488515", 
+      "possibly_sensitive": false
+    }, 
+    {
+      "lang": "en", 
+      "stats": {
+        "reply_count": 0, 
+        "quote_count": 0, 
+        "retweet_count": 0, 
+        "like_count": 1
+      }, 
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+      "text": "\u201cPlatforms whose profiteering purpose is to track and target people at global scale \u2014 which function by leveraging an asymmetrical \u2018attention economy\u2019 \u2014 have zero incentive to change...when the propaganda-as-a-service business remains in such high demand\u201d\n@HindsightFiles https://t.co/fKOSNUkoZP", 
+      "created_at": "2020-01-08T12:01:06.000Z", 
+      "format": "detailed", 
+      "entities": {
+        "mentions": [
+          {
+            "username": "HindsightFiles", 
+            "start": 256, 
+            "end": 271
+          }
+        ], 
+        "urls": [
+          {
+            "url": "https://t.co/fKOSNUkoZP", 
+            "start": 272, 
+            "end": 295, 
+            "expanded_url": "https://twitter.com/techcrunch/status/1214204725849153539", 
+            "display_url": "twitter.com/techcrunch/sta\u2026"
+          }
+        ]
+      }, 
+      "author_id": "15546929", 
+      "referenced_tweets": [
+        {
+          "type": "quoted", 
+          "id": "1214204725849153539"
+        }
+      ], 
+      "id": "1214879699970605056", 
+      "possibly_sensitive": false
+    }, 
+    {
+      "lang": "en", 
+      "stats": {
+        "reply_count": 0, 
+        "quote_count": 0, 
+        "retweet_count": 0, 
+        "like_count": 0
+      }, 
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+      "text": "@big_catsf @ThePlumLineGS @gtconway3d This is what the @GOP started in '14 midterms \n\nIt was @AmbJohnBolton PAC\n\nRead the released documents,  2 states benefited from these targeted ads NC @ThomTillis and ARK\n\nhttps://t.co/MchZCVjuMt", 
+      "created_at": "2020-01-08T11:59:01.000Z", 
+      "format": "detailed", 
+      "entities": {
+        "mentions": [
+          {
+            "username": "big_catsf", 
+            "start": 0, 
+            "end": 10
+          }, 
+          {
+            "username": "ThePlumLineGS", 
+            "start": 11, 
+            "end": 25
+          }, 
+          {
+            "username": "gtconway3d", 
+            "start": 26, 
+            "end": 37
+          }, 
+          {
+            "username": "GOP", 
+            "start": 55, 
+            "end": 59
+          }, 
+          {
+            "username": "AmbJohnBolton", 
+            "start": 93, 
+            "end": 107
+          }, 
+          {
+            "username": "ThomTillis", 
+            "start": 189, 
+            "end": 200
+          }
+        ], 
+        "urls": [
+          {
+            "url": "https://t.co/MchZCVjuMt", 
+            "start": 210, 
+            "end": 233, 
+            "expanded_url": "https://twitter.com/HindsightFiles/status/1213230045864628224?s=19", 
+            "display_url": "twitter.com/HindsightFiles\u2026"
+          }
+        ]
+      }, 
+      "in_reply_to_user_id": "758768664711692288", 
+      "author_id": "42388780", 
+      "referenced_tweets": [
+        {
+          "type": "quoted", 
+          "id": "1213230045864628224"
+        }, 
+        {
+          "type": "replied_to", 
+          "id": "1214875543998533635"
+        }
+      ], 
+      "id": "1214879174483050499", 
+      "possibly_sensitive": false
+    }, 
+    {
+      "lang": "en", 
+      "stats": {
+        "reply_count": 0, 
+        "quote_count": 0, 
+        "retweet_count": 0, 
+        "like_count": 0
+      }, 
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>", 
+      "text": "@democracynow @thegreathackdoc @HindsightFiles Amy Goodman having Kaiser, who helped elect Donald Trump, on her show as a \"whistleblower\" is absolutely stunning. Five minutes of online research shows that Kaiser is a world class grifter, manipulative to the hilt and only about $  #checkyoursourcesmuch?", 
+      "created_at": "2020-01-08T11:56:59.000Z", 
+      "format": "detailed", 
+      "entities": {
+        "mentions": [
+          {
+            "username": "democracynow", 
+            "start": 0, 
+            "end": 13
+          }, 
+          {
+            "username": "thegreathackdoc", 
+            "start": 14, 
+            "end": 30
+          }, 
+          {
+            "username": "HindsightFiles", 
+            "start": 31, 
+            "end": 46
+          }
+        ], 
+        "hashtags": [
+          {
+            "start": 281, 
+            "tag": "checkyoursourcesmuch", 
+            "end": 302
+          }
+        ]
+      }, 
+      "in_reply_to_user_id": "16935292", 
+      "author_id": "127098453", 
+      "referenced_tweets": [
+        {
+          "type": "replied_to", 
+          "id": "1214538782596358144"
+        }
+      ], 
+      "id": "1214878666041282565", 
+      "possibly_sensitive": false
+    }, 
+    {
+      "lang": "en", 
+      "stats": {
+        "reply_count": 0, 
+        "quote_count": 0, 
+        "retweet_count": 0, 
+        "like_count": 0
+      }, 
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+      "text": "@SandyMcInturff1 @ThePlumLineGS They already have had this data as the @GOP are historical clients of Cambridge A\n\nBolton started using these ads for the '14 midterms\n\n@ThomTillis is listed in the newly released documents also as a client \n\nhttps://t.co/MchZCVjuMt", 
+      "created_at": "2020-01-08T11:56:08.000Z", 
+      "format": "detailed", 
+      "entities": {
+        "mentions": [
+          {
+            "username": "SandyMcInturff1", 
+            "start": 0, 
+            "end": 16
+          }, 
+          {
+            "username": "ThePlumLineGS", 
+            "start": 17, 
+            "end": 31
+          }, 
+          {
+            "username": "GOP", 
+            "start": 71, 
+            "end": 75
+          }, 
+          {
+            "username": "ThomTillis", 
+            "start": 168, 
+            "end": 179
+          }
+        ], 
+        "urls": [
+          {
+            "url": "https://t.co/MchZCVjuMt", 
+            "start": 241, 
+            "end": 264, 
+            "expanded_url": "https://twitter.com/HindsightFiles/status/1213230045864628224?s=19", 
+            "display_url": "twitter.com/HindsightFiles\u2026"
+          }
+        ]
+      }, 
+      "in_reply_to_user_id": "786010951925370881", 
+      "author_id": "42388780", 
+      "referenced_tweets": [
+        {
+          "type": "quoted", 
+          "id": "1213230045864628224"
+        }, 
+        {
+          "type": "replied_to", 
+          "id": "1214876634748198913"
+        }
+      ], 
+      "id": "1214878451422810112", 
+      "possibly_sensitive": false
+    }, 
+    {
+      "lang": "en", 
+      "stats": {
+        "reply_count": 0, 
+        "quote_count": 0, 
+        "retweet_count": 74, 
+        "like_count": 0
+      }, 
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>", 
+      "text": "RT @JehaneNoujaim: #BrittanyKaiser continues to blow the whistle with the release of the @HindsightFiles. Today we joined her on @democracy\u2026", 
+      "created_at": "2020-01-08T11:55:13.000Z", 
+      "format": "detailed", 
+      "entities": {
+        "mentions": [
+          {
+            "username": "JehaneNoujaim", 
+            "start": 3, 
+            "end": 17
+          }, 
+          {
+            "username": "HindsightFiles", 
+            "start": 89, 
+            "end": 104
+          }
+        ], 
+        "hashtags": [
+          {
+            "start": 19, 
+            "tag": "BrittanyKaiser", 
+            "end": 34
+          }
+        ]
+      }, 
+      "author_id": "101129179", 
+      "referenced_tweets": [
+        {
+          "type": "quoted", 
+          "id": "1214538782596358144"
+        }, 
+        {
+          "type": "retweeted", 
+          "id": "1214553763119321088"
+        }
+      ], 
+      "id": "1214878218706014209", 
+      "possibly_sensitive": false
+    }, 
+    {
+      "lang": "und", 
+      "stats": {
+        "reply_count": 0, 
+        "quote_count": 0, 
+        "retweet_count": 0, 
+        "like_count": 0
+      }, 
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+      "text": "@kieranhannon @ThePlumLineGS https://t.co/MchZCVjuMt", 
+      "created_at": "2020-01-08T11:53:40.000Z", 
+      "format": "detailed", 
+      "entities": {
+        "mentions": [
+          {
+            "username": "kieranhannon", 
+            "start": 0, 
+            "end": 13
+          }, 
+          {
+            "username": "ThePlumLineGS", 
+            "start": 14, 
+            "end": 28
+          }
+        ], 
+        "urls": [
+          {
+            "url": "https://t.co/MchZCVjuMt", 
+            "start": 29, 
+            "end": 52, 
+            "expanded_url": "https://twitter.com/HindsightFiles/status/1213230045864628224?s=19", 
+            "display_url": "twitter.com/HindsightFiles\u2026"
+          }
+        ]
+      }, 
+      "in_reply_to_user_id": "35575567", 
+      "author_id": "42388780", 
+      "referenced_tweets": [
+        {
+          "type": "quoted", 
+          "id": "1213230045864628224"
+        }, 
+        {
+          "type": "replied_to", 
+          "id": "1214876625369649152"
+        }
+      ], 
+      "id": "1214877829629759488", 
+      "possibly_sensitive": false
+    }
+  ], 
+  "includes": {
+    "tweets": [
+      {
+        "lang": "en", 
+        "stats": {
+          "reply_count": 1, 
+          "quote_count": 0, 
+          "retweet_count": 1, 
+          "like_count": 2
+        }, 
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>", 
+        "text": "@ThePlumLineGS Using data purloined from the cambridge analytica fraud", 
+        "created_at": "2020-01-08T11:48:53.000Z", 
+        "format": "detailed", 
+        "entities": {
+          "mentions": [
+            {
+              "username": "ThePlumLineGS", 
+              "start": 0, 
+              "end": 14
+            }
+          ]
+        }, 
+        "in_reply_to_user_id": "20508720", 
+        "author_id": "35575567", 
+        "referenced_tweets": [
+          {
+            "type": "replied_to", 
+            "id": "1214874057532936192"
+          }
+        ], 
+        "id": "1214876625369649152", 
+        "possibly_sensitive": false
+      }, 
+      {
+        "lang": "en", 
+        "stats": {
+          "reply_count": 2, 
+          "quote_count": 21, 
+          "retweet_count": 78, 
+          "like_count": 107
+        }, 
+        "attachments": {
+          "media_keys": [
+            "3_1213230041091457025"
+          ]
+        }, 
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>", 
+        "text": "@AmbJohnBolton Known for aggressive foreign policy decisions leading to the #IraqWar, he had 3 goals w/#CambridgeAnalytica\n- increase awareness of @AmbJohnBolton\n- convince people that National Security is most important\n- support @SenThomTillis vs Kay Hagan in #NorthCarolina \n\n#Hindsightis2020 https://t.co/N82kvNkoWO", 
+        "created_at": "2020-01-03T22:45:58.000Z", 
+        "format": "detailed", 
+        "entities": {
+          "mentions": [
+            {
+              "username": "AmbJohnBolton", 
+              "start": 0, 
+              "end": 14
+            }, 
+            {
+              "username": "AmbJohnBolton", 
+              "start": 147, 
+              "end": 161
+            }, 
+            {
+              "username": "SenThomTillis", 
+              "start": 231, 
+              "end": 245
+            }
+          ], 
+          "hashtags": [
+            {
+              "start": 76, 
+              "tag": "IraqWar", 
+              "end": 84
+            }, 
+            {
+              "start": 103, 
+              "tag": "CambridgeAnalytica", 
+              "end": 122
+            }, 
+            {
+              "start": 262, 
+              "tag": "NorthCarolina", 
+              "end": 276
+            }, 
+            {
+              "start": 279, 
+              "tag": "Hindsightis2020", 
+              "end": 295
+            }
+          ], 
+          "urls": [
+            {
+              "url": "https://t.co/N82kvNkoWO", 
+              "start": 296, 
+              "end": 319, 
+              "expanded_url": "https://twitter.com/HindsightFiles/status/1213230045864628224/photo/1", 
+              "display_url": "pic.twitter.com/N82kvNkoWO"
+            }
+          ]
+        }, 
+        "in_reply_to_user_id": "1207804354075471873", 
+        "author_id": "1207804354075471873", 
+        "referenced_tweets": [
+          {
+            "type": "replied_to", 
+            "id": "1213229272963461126"
+          }
+        ], 
+        "id": "1213230045864628224", 
+        "possibly_sensitive": false
+      }, 
+      {
+        "lang": "en", 
+        "stats": {
+          "reply_count": 2, 
+          "quote_count": 5, 
+          "retweet_count": 74, 
+          "like_count": 105
+        }, 
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>", 
+        "text": "#BrittanyKaiser continues to blow the whistle with the release of the @HindsightFiles. Today we joined her on @democracynow to continue to spread the word and raise awareness about data manipulation and the threat to democracy worldwide. #TheGreatHack #Hindsightis2020 https://t.co/lKZCx0BTwE", 
+        "created_at": "2020-01-07T14:25:57.000Z", 
+        "format": "detailed", 
+        "entities": {
+          "mentions": [
+            {
+              "username": "HindsightFiles", 
+              "start": 70, 
+              "end": 85
+            }, 
+            {
+              "username": "democracynow", 
+              "start": 110, 
+              "end": 123
+            }
+          ], 
+          "hashtags": [
+            {
+              "start": 0, 
+              "tag": "BrittanyKaiser", 
+              "end": 15
+            }, 
+            {
+              "start": 238, 
+              "tag": "TheGreatHack", 
+              "end": 251
+            }, 
+            {
+              "start": 252, 
+              "tag": "Hindsightis2020", 
+              "end": 268
+            }
+          ], 
+          "urls": [
+            {
+              "url": "https://t.co/lKZCx0BTwE", 
+              "start": 269, 
+              "end": 292, 
+              "expanded_url": "https://twitter.com/democracynow/status/1214538782596358144", 
+              "display_url": "twitter.com/democracynow/s\u2026"
+            }
+          ]
+        }, 
+        "author_id": "8303482", 
+        "referenced_tweets": [
+          {
+            "type": "quoted", 
+            "id": "1214538782596358144"
+          }
+        ], 
+        "id": "1214553763119321088", 
+        "possibly_sensitive": false
+      }, 
+      {
+        "lang": "en", 
+        "stats": {
+          "reply_count": 1, 
+          "quote_count": 0, 
+          "retweet_count": 5, 
+          "like_count": 10
+        }, 
+        "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>", 
+        "text": "@ThePlumLineGS Doesn't it take a little time to create 800 distinct facebook ads? Like maybe they were already developing the ads before Suleimani was killed? Just asking, and wondering..", 
+        "created_at": "2020-01-08T11:48:55.000Z", 
+        "format": "detailed", 
+        "entities": {
+          "mentions": [
+            {
+              "username": "ThePlumLineGS", 
+              "start": 0, 
+              "end": 14
+            }
+          ]
+        }, 
+        "in_reply_to_user_id": "20508720", 
+        "author_id": "786010951925370881", 
+        "referenced_tweets": [
+          {
+            "type": "replied_to", 
+            "id": "1214874057532936192"
+          }
+        ], 
+        "id": "1214876634748198913", 
+        "possibly_sensitive": false
+      }, 
+      {
+        "lang": "en", 
+        "stats": {
+          "reply_count": 16, 
+          "quote_count": 32, 
+          "retweet_count": 429, 
+          "like_count": 554
+        }, 
+        "attachments": {
+          "media_keys": [
+            "13_1214537990564909062"
+          ]
+        }, 
+        "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>", 
+        "text": "Whistleblower Brittany Kaiser, featured in @thegreathackdoc, is releasing Cambridge Analytica documents on voter manipulation via @hindsightfiles. \"If you understand the tactics and the strategies that are being used to manipulate you, then you can protect yourself,\" Kaiser says. https://t.co/wgqksDxvjM", 
+        "created_at": "2020-01-07T13:26:25.000Z", 
+        "format": "detailed", 
+        "entities": {
+          "mentions": [
+            {
+              "username": "thegreathackdoc", 
+              "start": 43, 
+              "end": 59
+            }, 
+            {
+              "username": "HindsightFiles", 
+              "start": 130, 
+              "end": 145
+            }
+          ], 
+          "urls": [
+            {
+              "url": "https://t.co/wgqksDxvjM", 
+              "start": 281, 
+              "end": 304, 
+              "expanded_url": "https://twitter.com/democracynow/status/1214538782596358144/video/1", 
+              "display_url": "pic.twitter.com/wgqksDxvjM"
+            }
+          ]
+        }, 
+        "author_id": "16935292", 
+        "id": "1214538782596358144", 
+        "possibly_sensitive": false
+      }, 
+      {
+        "lang": "en", 
+        "stats": {
+          "reply_count": 1, 
+          "quote_count": 0, 
+          "retweet_count": 0, 
+          "like_count": 3
+        }, 
+        "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>", 
+        "text": "@ThePlumLineGS @gtconway3d This is what the Mafia did advertise &amp; boast about killing not a Leader of a country whose goal should be peace &amp; diplomacy Trump is nothing more than a glorified Thug a big Goon", 
+        "created_at": "2020-01-08T11:44:35.000Z", 
+        "format": "detailed", 
+        "entities": {
+          "mentions": [
+            {
+              "username": "ThePlumLineGS", 
+              "start": 0, 
+              "end": 14
+            }, 
+            {
+              "username": "gtconway3d", 
+              "start": 15, 
+              "end": 26
+            }
+          ]
+        }, 
+        "in_reply_to_user_id": "20508720", 
+        "author_id": "758768664711692288", 
+        "referenced_tweets": [
+          {
+            "type": "replied_to", 
+            "id": "1214874057532936192"
+          }
+        ], 
+        "id": "1214875543998533635", 
+        "possibly_sensitive": false
+      }, 
+      {
+        "lang": "en", 
+        "stats": {
+          "reply_count": 3, 
+          "quote_count": 5, 
+          "retweet_count": 54, 
+          "like_count": 45
+        }, 
+        "attachments": {
+          "media_keys": [
+            "3_1214204723995107333"
+          ]
+        }, 
+        "source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>", 
+        "text": "Facebook data misuse and voter manipulation back in the frame with latest Cambridge Analytica leaks https://t.co/Xb2WUgDoLS by @riptari https://t.co/PPXcfiX0bw", 
+        "created_at": "2020-01-06T15:19:00.000Z", 
+        "format": "detailed", 
+        "entities": {
+          "mentions": [
+            {
+              "username": "riptari", 
+              "start": 127, 
+              "end": 135
+            }
+          ], 
+          "urls": [
+            {
+              "url": "https://t.co/Xb2WUgDoLS", 
+              "start": 100, 
+              "end": 123, 
+              "expanded_url": "https://tcrn.ch/35tADw4", 
+              "display_url": "tcrn.ch/35tADw4"
+            }, 
+            {
+              "url": "https://t.co/PPXcfiX0bw", 
+              "start": 136, 
+              "end": 159, 
+              "expanded_url": "https://twitter.com/TechCrunch/status/1214204725849153539/photo/1", 
+              "display_url": "pic.twitter.com/PPXcfiX0bw"
+            }
+          ]
+        }, 
+        "author_id": "816653", 
+        "id": "1214204725849153539", 
+        "possibly_sensitive": false
+      }, 
+      {
+        "lang": "en", 
+        "stats": {
+          "reply_count": 8, 
+          "quote_count": 5, 
+          "retweet_count": 126, 
+          "like_count": 140
+        }, 
+        "attachments": {
+          "media_keys": [
+            "3_1212741269388222466"
+          ]
+        }, 
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>", 
+        "text": "The disinformation campaign is well underway on Twitter &amp; Facebook\n&amp; it's only going to get worse\nPlease THINK before you share, you could be spreading propaganda. \nBe smarter than the Bots &amp; trolls w/9 simple steps:\n#ThursdayThoughts \n#OneVoice1\n#BlueTsunami2020 https://t.co/oG3awQ4Y8N", 
+        "created_at": "2020-01-02T14:51:04.000Z", 
+        "format": "detailed", 
+        "entities": {
+          "hashtags": [
+            {
+              "start": 229, 
+              "tag": "ThursdayThoughts", 
+              "end": 246
+            }, 
+            {
+              "start": 248, 
+              "tag": "OneVoice1", 
+              "end": 258
+            }, 
+            {
+              "start": 259, 
+              "tag": "BlueTsunami2020", 
+              "end": 275
+            }
+          ], 
+          "urls": [
+            {
+              "url": "https://t.co/oG3awQ4Y8N", 
+              "start": 276, 
+              "end": 299, 
+              "expanded_url": "https://twitter.com/shossy2/status/1212748147367325697/photo/1", 
+              "display_url": "pic.twitter.com/oG3awQ4Y8N"
+            }
+          ]
+        }, 
+        "author_id": "4459642286", 
+        "id": "1212748147367325697", 
+        "possibly_sensitive": false
+      }, 
+      {
+        "lang": "en", 
+        "stats": {
+          "reply_count": 47, 
+          "quote_count": 59, 
+          "retweet_count": 334, 
+          "like_count": 357
+        }, 
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>", 
+        "text": "Weekly Roundup - Latest Releases\n\n\ud83d\udcc2BRAZIL: https://t.co/FcE3I3tr6R\n\n\ud83d\udcc2KENYA: https://t.co/JWfKOExSAy\n\n\ud83d\udcc2MALAYSIA: https://t.co/DRBh29JmpE\n\n\ud83d\udcc2JOHN BOLTON: https://t.co/9vF5yU9jW4\n\n\ud83d\udcc2IRAN: https://t.co/2ak3f3UE3C\n\n#Hindsightis2020", 
+        "created_at": "2020-01-05T01:26:34.000Z", 
+        "format": "detailed", 
+        "entities": {
+          "hashtags": [
+            {
+              "start": 208, 
+              "tag": "Hindsightis2020", 
+              "end": 224
+            }
+          ], 
+          "urls": [
+            {
+              "url": "https://t.co/FcE3I3tr6R", 
+              "start": 43, 
+              "end": 66, 
+              "expanded_url": "http://repo.hindsightfiles.com/01012020/brazil.zip", 
+              "display_url": "repo.hindsightfiles.com/01012020/brazi\u2026"
+            }, 
+            {
+              "url": "https://t.co/JWfKOExSAy", 
+              "start": 76, 
+              "end": 99, 
+              "expanded_url": "http://repo.hindsightfiles.com/01012020/kenya.zip", 
+              "display_url": "repo.hindsightfiles.com/01012020/kenya\u2026"
+            }, 
+            {
+              "url": "https://t.co/DRBh29JmpE", 
+              "start": 112, 
+              "end": 135, 
+              "expanded_url": "http://repo.hindsightfiles.com/01012020/malaysia.zip", 
+              "display_url": "repo.hindsightfiles.com/01012020/malay\u2026"
+            }, 
+            {
+              "url": "https://t.co/9vF5yU9jW4", 
+              "start": 151, 
+              "end": 174, 
+              "expanded_url": "https://repo.hindsightfiles.com/01042020/bolton.zip", 
+              "display_url": "repo.hindsightfiles.com/01042020/bolto\u2026"
+            }, 
+            {
+              "url": "https://t.co/2ak3f3UE3C", 
+              "start": 183, 
+              "end": 206, 
+              "expanded_url": "https://repo.hindsightfiles.com/01042020/iran.zip", 
+              "display_url": "repo.hindsightfiles.com/01042020/iran.\u2026"
+            }
+          ]
+        }, 
+        "author_id": "1207804354075471873", 
+        "id": "1213632848810381312", 
+        "possibly_sensitive": false
+      }
+    ], 
+    "users": [
+      {
+        "username": "kieranhannon", 
+        "stats": {
+          "followers_count": 11753, 
+          "tweet_count": 32612, 
+          "following_count": 7435, 
+          "listed_count": 697
+        }, 
+        "description": "#CMO @Openpathsec is where (physical) access combines the best of worlds: highly convenient, extremely secure & fun | #Irish \u2618\ufe0f | My own brain burps...", 
+        "most_recent_tweet_id": "1214874770866442241", 
+        "url": "", 
+        "created_at": "2009-04-26T21:50:45.000Z", 
+        "format": "detailed", 
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1161457661189038080/2u_ba9ab_normal.jpg", 
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "username": "Openpathsec", 
+                "start": 5, 
+                "end": 17
+              }
+            ], 
+            "hashtags": [
+              {
+                "start": 0, 
+                "tag": "CMO", 
+                "end": 4
+              }, 
+              {
+                "start": 118, 
+                "tag": "Irish", 
+                "end": 124
+              }
+            ]
+          }
+        }, 
+        "pinned_tweet_id": "1126584678721261568", 
+        "location": "Santa Monica, CA", 
+        "verified": true, 
+        "protected": false, 
+        "id": "35575567", 
+        "name": "Kieran Hannon"
+      }, 
+      {
+        "username": "HindsightFiles", 
+        "stats": {
+          "followers_count": 18817, 
+          "tweet_count": 46, 
+          "following_count": 1, 
+          "listed_count": 120
+        }, 
+        "description": "Democracies around the world are being auctioned to the highest bidder. \nWe release the documents that explain how.\n\nvia Brittany Kaiser (@ownyourdataNOW)", 
+        "most_recent_tweet_id": "1214713133400502274", 
+        "url": "", 
+        "created_at": "2019-12-19T23:26:36.000Z", 
+        "format": "detailed", 
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1212066761983455232/ut_x6qZN_normal.jpg", 
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "username": "ownyourdataNOW", 
+                "start": 138, 
+                "end": 153
+              }
+            ]
+          }
+        }, 
+        "pinned_tweet_id": "1214039510859825153", 
+        "verified": false, 
+        "protected": false, 
+        "id": "1207804354075471873", 
+        "name": "Hindsight is 2020"
+      }, 
+      {
+        "username": "ThePlumLineGS", 
+        "stats": {
+          "followers_count": 249029, 
+          "tweet_count": 139841, 
+          "following_count": 4160, 
+          "listed_count": 6009
+        }, 
+        "description": "A blog about politics, politics, and politics", 
+        "most_recent_tweet_id": "1214882486578286599", 
+        "url": "https://t.co/Bx7pTZ6DYZ", 
+        "created_at": "2009-02-10T12:04:17.000Z", 
+        "format": "detailed", 
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1027959547997110273/z8InKK69_normal.jpg", 
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/Bx7pTZ6DYZ", 
+                "start": 0, 
+                "end": 23, 
+                "expanded_url": "https://www.washingtonpost.com/blogs/plum-line/", 
+                "display_url": "washingtonpost.com/blogs/plum-lin\u2026"
+              }
+            ]
+          }
+        }, 
+        "pinned_tweet_id": "1027944984241229824", 
+        "verified": true, 
+        "protected": false, 
+        "id": "20508720", 
+        "name": "Greg Sargent"
+      }, 
+      {
+        "username": "AudreyAnderson", 
+        "stats": {
+          "followers_count": 357, 
+          "tweet_count": 6084, 
+          "following_count": 762, 
+          "listed_count": 8
+        }, 
+        "description": "That's no reason to cry. One cries because one is sad. For example, I cry because others are stupid, and that makes me sad.", 
+        "format": "detailed", 
+        "url": "", 
+        "created_at": "2009-05-25T11:16:17.000Z", 
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1131697693737275392/WS1fXqfv_normal.jpg", 
+        "most_recent_tweet_id": "1214869892182077442", 
+        "pinned_tweet_id": "1213056459920965632", 
+        "location": "Perth , Australia", 
+        "verified": false, 
+        "protected": false, 
+        "id": "42388780", 
+        "name": "Audrey Anderson"
+      }, 
+      {
+        "username": "JehaneNoujaim", 
+        "stats": {
+          "followers_count": 8050, 
+          "tweet_count": 452, 
+          "following_count": 1392, 
+          "listed_count": 210
+        }, 
+        "description": "http://t.co/vHoAkzp2", 
+        "most_recent_tweet_id": "1214672660401152000", 
+        "url": "https://t.co/JV6E978Cro", 
+        "created_at": "2007-08-20T11:46:50.000Z", 
+        "format": "detailed", 
+        "profile_image_url": "https://pbs.twimg.com/profile_images/202496817/n29548_7769_normal.jpg", 
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/JV6E978Cro", 
+                "start": 0, 
+                "end": 23, 
+                "expanded_url": "https://www.thegreathack.com/", 
+                "display_url": "thegreathack.com"
+              }
+            ]
+          }, 
+          "description": {
+            "urls": [
+              {
+                "url": "http://t.co/vHoAkzp2", 
+                "start": 0, 
+                "end": 20, 
+                "expanded_url": "http://en.wikipedia.org/wiki/Jehane_Noujaim", 
+                "display_url": "en.wikipedia.org/wiki/Jehane_No\u2026"
+              }
+            ]
+          }
+        }, 
+        "protected": false, 
+        "location": "New York/ London/ Cairo", 
+        "verified": false, 
+        "id": "8303482", 
+        "name": "jehane noujaim"
+      }, 
+      {
+        "username": "CathyVoganSPK", 
+        "stats": {
+          "followers_count": 1427, 
+          "tweet_count": 13306, 
+          "following_count": 1009, 
+          "listed_count": 48
+        }, 
+        "description": "Film-maker, lecturer at Sydney Film School and executive producer of CNLive! with @consortiumnews. Author The Wikileaks Tapes.", 
+        "most_recent_tweet_id": "1214881803657338881", 
+        "url": "http://t.co/0tdG1uYh", 
+        "created_at": "2010-01-02T03:53:41.000Z", 
+        "format": "detailed", 
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1181143785608118272/6bmgGPw0_normal.jpg", 
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/0tdG1uYh", 
+                "start": 0, 
+                "end": 20, 
+                "expanded_url": "http://thing2thing.com", 
+                "display_url": "thing2thing.com"
+              }
+            ]
+          }, 
+          "description": {
+            "mentions": [
+              {
+                "username": "consortiumnews", 
+                "start": 82, 
+                "end": 97
+              }
+            ]
+          }
+        }, 
+        "pinned_tweet_id": "1181852543061643264", 
+        "location": "Sydney", 
+        "verified": false, 
+        "protected": false, 
+        "id": "101129179", 
+        "name": "\ud83d\udca7Dame Cathy Vogan"
+      }, 
+      {
+        "username": "SandyMcInturff1", 
+        "stats": {
+          "followers_count": 3956, 
+          "tweet_count": 15300, 
+          "following_count": 4965, 
+          "listed_count": 5
+        }, 
+        "description": "Mom, nurse, sci fi fan, green thumb, likes country music. Blue dot in a sea of red. Don't expect a.response to.unsolicited DM:s.#Resist #BlueTsumami\ud83c\udf0a\ud83c\udf0a\ud83c\udf0a\ud83c\udf0a", 
+        "most_recent_tweet_id": "1214877871786938369", 
+        "url": "", 
+        "created_at": "2016-10-12T01:09:49.000Z", 
+        "format": "detailed", 
+        "profile_image_url": "https://pbs.twimg.com/profile_images/846486959165988864/X92j_9Ba_normal.jpg", 
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "start": 128, 
+                "tag": "Resist", 
+                "end": 135
+              }, 
+              {
+                "start": 136, 
+                "tag": "BlueTsumami", 
+                "end": 148
+              }
+            ]
+          }
+        }, 
+        "protected": false, 
+        "location": "Virginia, USA", 
+        "verified": false, 
+        "id": "786010951925370881", 
+        "name": "Sandy M."
+      }, 
+      {
+        "username": "ThomTillis", 
+        "stats": {
+          "followers_count": 37014, 
+          "tweet_count": 2616, 
+          "following_count": 9224, 
+          "listed_count": 1043
+        }, 
+        "description": "Husband to Susan. Father to Lindsay and Ryan. Papa to Sawyer. Senator to North Carolina.", 
+        "most_recent_tweet_id": "1214643698929143811", 
+        "url": "https://t.co/hLVMZtXMck", 
+        "created_at": "2009-02-27T21:49:53.000Z", 
+        "format": "detailed", 
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1172936913604567040/td4JJ3Ml_normal.jpg", 
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/hLVMZtXMck", 
+                "start": 0, 
+                "end": 23, 
+                "expanded_url": "http://www.ThomTillis.com", 
+                "display_url": "ThomTillis.com"
+              }
+            ]
+          }
+        }, 
+        "pinned_tweet_id": "1173942060853936131", 
+        "location": "Huntersville, North Carolina", 
+        "verified": true, 
+        "protected": false, 
+        "id": "22195441", 
+        "name": "Thom Tillis"
+      }, 
+      {
+        "username": "GOP", 
+        "stats": {
+          "followers_count": 2179671, 
+          "tweet_count": 37512, 
+          "following_count": 1671, 
+          "listed_count": 9506
+        }, 
+        "description": "Sign up to get official updates from the Republican National Committee\u2b07\ufe0f", 
+        "most_recent_tweet_id": "1214741049622638592", 
+        "url": "https://t.co/TuMeEDhfc4", 
+        "created_at": "2007-12-13T17:15:41.000Z", 
+        "format": "detailed", 
+        "profile_image_url": "https://pbs.twimg.com/profile_images/975343259001106432/7uzLo2Tx_normal.jpg", 
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/TuMeEDhfc4", 
+                "start": 0, 
+                "end": 23, 
+                "expanded_url": "https://goo.gl/xqho9k", 
+                "display_url": "goo.gl/xqho9k"
+              }
+            ]
+          }
+        }, 
+        "protected": false, 
+        "verified": true, 
+        "id": "11134252", 
+        "name": "GOP"
+      }, 
+      {
+        "username": "democracynow", 
+        "stats": {
+          "followers_count": 710875, 
+          "tweet_count": 93218, 
+          "following_count": 6540, 
+          "listed_count": 17146
+        }, 
+        "description": "Independent, daily global news hour anchored by Amy Goodman & Juan Gonz\u00e1lez. Stream M-F 8AM ET https://t.co/qj9euWzTVH. Support independent media\u2014Donate today!", 
+        "most_recent_tweet_id": "1214853003083231232", 
+        "url": "https://t.co/McGBFQZwkq", 
+        "created_at": "2008-10-23T20:47:35.000Z", 
+        "format": "detailed", 
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1124035441815162881/Y6f2r3bm_normal.png", 
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/McGBFQZwkq", 
+                "start": 0, 
+                "end": 23, 
+                "expanded_url": "https://www.democracynow.org", 
+                "display_url": "democracynow.org"
+              }
+            ]
+          }, 
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/qj9euWzTVH", 
+                "start": 95, 
+                "end": 118, 
+                "expanded_url": "http://democracynow.org", 
+                "display_url": "democracynow.org"
+              }
+            ]
+          }
+        }, 
+        "protected": false, 
+        "location": "New York", 
+        "verified": true, 
+        "id": "16935292", 
+        "name": "Democracy Now!"
+      }, 
+      {
+        "username": "thegreathackdoc", 
+        "stats": {
+          "followers_count": 7017, 
+          "tweet_count": 1727, 
+          "following_count": 61, 
+          "listed_count": 45
+        }, 
+        "description": "Directed by Karim Amer and Jehane Noujaim. Now streaming on Netflix.", 
+        "most_recent_tweet_id": "1214702685636775936", 
+        "url": "https://t.co/1KjWfZ2R82", 
+        "created_at": "2019-06-17T21:49:10.000Z", 
+        "format": "detailed", 
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1153756239186104320/umxgxA9E_normal.jpg", 
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/1KjWfZ2R82", 
+                "start": 0, 
+                "end": 23, 
+                "expanded_url": "http://www.thegreathack.com", 
+                "display_url": "thegreathack.com"
+              }
+            ]
+          }
+        }, 
+        "pinned_tweet_id": "1161808474084270080", 
+        "verified": false, 
+        "protected": false, 
+        "id": "1140738177277321221", 
+        "name": "The Great Hack Film"
+      }, 
+      {
+        "username": "Tomorrowlisa", 
+        "stats": {
+          "followers_count": 0, 
+          "tweet_count": 93, 
+          "following_count": 11, 
+          "listed_count": 0
+        }, 
+        "description": "", 
+        "format": "detailed", 
+        "url": "", 
+        "created_at": "2010-03-28T01:55:06.000Z", 
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png", 
+        "most_recent_tweet_id": "1047466461390934017", 
+        "protected": false, 
+        "verified": false, 
+        "id": "127098453", 
+        "name": "Lisa McFadden"
+      }, 
+      {
+        "username": "big_catsf", 
+        "stats": {
+          "followers_count": 2293, 
+          "tweet_count": 87060, 
+          "following_count": 282, 
+          "listed_count": 37
+        }, 
+        "description": "Politics , animal right activist, movies and Blue Jays", 
+        "format": "detailed", 
+        "url": "", 
+        "created_at": "2016-07-28T20:58:41.000Z", 
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1082372173325512704/Im7Ew8DI_normal.jpg", 
+        "most_recent_tweet_id": "1214873510314749952", 
+        "protected": false, 
+        "location": "Canada", 
+        "verified": false, 
+        "id": "758768664711692288", 
+        "name": "Big Cats"
+      }, 
+      {
+        "username": "AmbJohnBolton", 
+        "stats": {
+          "followers_count": 885317, 
+          "tweet_count": 4934, 
+          "following_count": 1187, 
+          "listed_count": 5964
+        }, 
+        "description": "Former Assistant to the President for National Security Affairs (NSA)", 
+        "most_recent_tweet_id": "1214227975262146561", 
+        "url": "https://t.co/oUR17uACSA", 
+        "created_at": "2010-03-01T17:18:27.000Z", 
+        "format": "detailed", 
+        "profile_image_url": "https://pbs.twimg.com/profile_images/710587003813957632/_JR9ALxD_normal.jpg", 
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/oUR17uACSA", 
+                "start": 0, 
+                "end": 23, 
+                "expanded_url": "http://www.boltonpac.com", 
+                "display_url": "boltonpac.com"
+              }
+            ]
+          }
+        }, 
+        "protected": false, 
+        "location": "Washington, DC", 
+        "verified": true, 
+        "id": "118756393", 
+        "name": "John Bolton"
+      }, 
+      {
+        "username": "gtconway3d", 
+        "stats": {
+          "followers_count": 872169, 
+          "tweet_count": 34214, 
+          "following_count": 1001, 
+          "listed_count": 3746
+        }, 
+        "description": "Lawyer. Windmill cancer survivor. Non-smocker.", 
+        "format": "detailed", 
+        "url": "", 
+        "created_at": "2012-01-23T04:23:10.000Z", 
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783627578/image_normal.jpg", 
+        "most_recent_tweet_id": "1214877456580141056", 
+        "pinned_tweet_id": "1214872394894102528", 
+        "location": "Originally from U.S.", 
+        "verified": false, 
+        "protected": false, 
+        "id": "471677441", 
+        "name": "George Conway"
+      }, 
+      {
+        "username": "TechCrunch", 
+        "stats": {
+          "followers_count": 10124557, 
+          "tweet_count": 207081, 
+          "following_count": 964, 
+          "listed_count": 111769
+        }, 
+        "description": "Breaking technology news, analysis, and opinions from TechCrunch. Got a tip? tips@techcrunch.com", 
+        "most_recent_tweet_id": "1214880450675646465", 
+        "url": "https://t.co/UP0CP1R28G", 
+        "created_at": "2007-03-07T01:27:09.000Z", 
+        "format": "detailed", 
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1096066608034918401/m8wnTWsX_normal.png", 
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/UP0CP1R28G", 
+                "start": 0, 
+                "end": 23, 
+                "expanded_url": "http://techcrunch.com/subscribe", 
+                "display_url": "techcrunch.com/subscribe"
+              }
+            ]
+          }
+        }, 
+        "pinned_tweet_id": "1199476679372136453", 
+        "location": "San Francisco, CA", 
+        "verified": true, 
+        "protected": false, 
+        "id": "816653", 
+        "name": "TechCrunch"
+      }, 
+      {
+        "username": "Libby_Ball", 
+        "stats": {
+          "followers_count": 1312, 
+          "tweet_count": 7353, 
+          "following_count": 4991, 
+          "listed_count": 14
+        }, 
+        "description": "Nevertheless, she persisted. \nEmerging a story from heart to page. A beguiling story can change the world. \n#Persisterhood #MontaniSemperLiberi", 
+        "most_recent_tweet_id": "1214882425416732672", 
+        "url": "", 
+        "created_at": "2008-07-22T23:44:56.000Z", 
+        "format": "detailed", 
+        "profile_image_url": "https://pbs.twimg.com/profile_images/823329761581633537/r3nRviCN_normal.jpg", 
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "start": 108, 
+                "tag": "Persisterhood", 
+                "end": 122
+              }, 
+              {
+                "start": 123, 
+                "tag": "MontaniSemperLiberi", 
+                "end": 143
+              }
+            ]
+          }
+        }, 
+        "pinned_tweet_id": "820386203363000320", 
+        "location": "Planet Earth with You! #WA10", 
+        "verified": false, 
+        "protected": false, 
+        "id": "15546929", 
+        "name": "Libby Ball"
+      }, 
+      {
+        "username": "shossy2", 
+        "stats": {
+          "followers_count": 26503, 
+          "tweet_count": 104936, 
+          "following_count": 25908, 
+          "listed_count": 17
+        }, 
+        "description": "Proud Resister \u270a \ud83c\uddfa\ud83c\uddf8MAGAts/trolls/lists/Bots BLOCKED \ud83d\udeab RT's NOT endorsements #OneVoice1 #IMPOTUS3 #Beagles ROCK \ud83d\udc36\ud83d\udc3e \ud83d\udc95#Z1#WTP2020", 
+        "most_recent_tweet_id": "1214772241319235584", 
+        "url": "", 
+        "created_at": "2015-12-05T03:15:23.000Z", 
+        "format": "detailed", 
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1080625635142311937/Y46s9Qqs_normal.jpg", 
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "start": 76, 
+                "tag": "OneVoice1", 
+                "end": 86
+              }, 
+              {
+                "start": 87, 
+                "tag": "IMPOTUS3", 
+                "end": 96
+              }, 
+              {
+                "start": 97, 
+                "tag": "Beagles", 
+                "end": 105
+              }
+            ]
+          }
+        }, 
+        "protected": false, 
+        "verified": false, 
+        "id": "4459642286", 
+        "name": "\ud83c\udf0aSheryl Lynne #IAmTheResistance"
+      }, 
+      {
+        "username": "kayhagan", 
+        "stats": {
+          "followers_count": 7864, 
+          "tweet_count": 1423, 
+          "following_count": 699, 
+          "listed_count": 463
+        }, 
+        "description": "Former United States Senator from North Carolina. Currently serving as a @HarvardIOP fellow.", 
+        "most_recent_tweet_id": "613802697498722304", 
+        "url": "http://t.co/dKSnCfbxsF", 
+        "created_at": "2008-07-23T20:59:53.000Z", 
+        "format": "detailed", 
+        "profile_image_url": "https://pbs.twimg.com/profile_images/518429162676035585/bfDdaDV7_normal.png", 
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://t.co/dKSnCfbxsF", 
+                "start": 0, 
+                "end": 22, 
+                "expanded_url": "http://www.kayhagan.com", 
+                "display_url": "kayhagan.com"
+              }
+            ]
+          }, 
+          "description": {
+            "mentions": [
+              {
+                "username": "HarvardIOP", 
+                "start": 73, 
+                "end": 84
+              }
+            ]
+          }
+        }, 
+        "protected": false, 
+        "location": "Greensboro, NC", 
+        "verified": true, 
+        "id": "15572155", 
+        "name": "Kay Hagan"
+      }, 
+      {
+        "username": "PaulPiscitelli1", 
+        "stats": {
+          "followers_count": 854, 
+          "tweet_count": 2007, 
+          "following_count": 2069, 
+          "listed_count": 0
+        }, 
+        "description": "Dad, husband, opinionated. Using lower case letters to express disrespect as needed.\ntrumpshit = bullshit on steroids", 
+        "format": "detailed", 
+        "url": "", 
+        "created_at": "2019-08-11T10:28:17.000Z", 
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1195687781688852484/1VlW6Mn2_normal.jpg", 
+        "most_recent_tweet_id": "1214878973613789184", 
+        "protected": false, 
+        "location": "FL", 
+        "verified": false, 
+        "id": "1160498163482079232", 
+        "name": "Paul Piscitelli"
+      }, 
+      {
+        "username": "zvolsiinfo", 
+        "stats": {
+          "followers_count": 218, 
+          "tweet_count": 263, 
+          "following_count": 62, 
+          "listed_count": 0
+        }, 
+        "description": "Jsme skupina student\u016f z Masarykovy Univerzity a bojujeme proti fake news po\u0159\u00e1d\u00e1n\u00edm p\u0159edn\u00e1\u0161ek na \u010desk\u00fdch i slovensk\u00fdch \u0161kol\u00e1ch. tym@zvolsi.info", 
+        "most_recent_tweet_id": "1214881709415641088", 
+        "url": "https://t.co/5OGbrnynJJ", 
+        "created_at": "2019-03-28T11:50:22.000Z", 
+        "format": "detailed", 
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1190702247216328707/OENLerZT_normal.jpg", 
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/5OGbrnynJJ", 
+                "start": 0, 
+                "end": 23, 
+                "expanded_url": "https://zvolsi.info", 
+                "display_url": "zvolsi.info"
+              }
+            ]
+          }
+        }, 
+        "pinned_tweet_id": "1208479744444051464", 
+        "verified": false, 
+        "protected": false, 
+        "id": "1111234067301888002", 
+        "name": "Zvol si info"
+      }
+    ]
+  }
+}
